@@ -18,7 +18,7 @@
 
 </details>
 
-## Layout
+## I - Layout
 
 <details>
 <summary>Layout</summary>
@@ -45,7 +45,7 @@
 
 </details>
 
-## Typography
+## II - Typography
 
 <details>
 <summary>Typography</summary>
@@ -69,7 +69,7 @@
 
 </details>
 
-## Typography basics
+## III - Typography basics
 
 <details>
 <summary>Basics</summary>
@@ -208,7 +208,7 @@ styles
 
 </details>
 
-## Colors
+## IV - Colors
 
 <details>
 <summary>Colors</summary>
@@ -248,3 +248,129 @@ Color hunting
 ```
 
 </details>
+
+## V - Photos
+
+<details>
+<summary>Images</summary>
+
+<details>
+<summary>Photos exercices</summary>
+
+![Photos ex](photos_ex_cropExercices.png)
+
+</details>
+
+</details>
+
+<details>
+<summary>Basics</summary>
+
+Overlay
+
+```js
+// Filter
+
+// Tinting => change photos saturation/color
+// => usefull to apply brand color
+```
+
+Cropping
+
+```js
+// Extreme crop
+// on face picture
+// Narrow picture => picking through the blind
+
+// Soft crop
+// crop image and set linear overlay
+// can be usefull for portrait image
+```
+
+Rule of thirds
+
+```js
+// Rule of thirds => Good for image with background
+// avoid when you want to focus on something
+```
+
+```js
+// Unbox
+// Find photos
+```
+
+</details>
+
+## VI - Design Tricks
+
+<details>
+<summary>Basics</summary>
+
+### Contrast
+
+```js
+// Color - Size - Weight
+
+// - WHite / Blue - background color
+// - Black / Blue - typo
+// - Headline / paragraph - size
+// - Headline / paragraph - lightness typo
+```
+
+### White Space
+
+```js
+// More empty space
+// Give More strength to content
+
+// Don't absolutely fill empty space
+// Don't unlink part ex: nav link, title/paragraph
+```
+
+### Repetition
+
+```js
+// grid
+// same color palette
+// photos placement
+```
+
+### Consistency
+
+```js
+// symetry
+// no junk style, color
+```
+
+### Overlapping
+
+```js
+// Photos over text, photos over others photos
+```
+
+### Tension
+
+```js
+// climax, music like, suspense
+// extremeCrop
+// overlapping
+// unconsistency
+// angles
+```
+
+</details>
+
+## VII - Mimicking Pros
+
+<details>
+<summary>Mimic Method</summary>
+
+```js
+// 1 - Copy
+// 2 - Remix, Use own twist
+// 3 - Create
+```
+
+</details>
+
+## VIII - Webflow
